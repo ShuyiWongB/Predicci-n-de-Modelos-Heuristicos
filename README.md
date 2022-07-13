@@ -5,7 +5,7 @@ El siguiente repositorio tiene un Prototipo de Aplicacion para la Predicción de
 
 #### Lenguaje
 
-* Python 3.8
+* Python 3
 
 _Descargar python desde la pagina oficial o desde su terminal y revisar la version_
 
@@ -32,6 +32,7 @@ pip install sklearn
 ### Como ejecutar la aplicación
 
 Darle doble click a ejecutable "PredictionModel" que se encuentra en la siguiente ruta
+
 ```
 .\Prediccion de Modelos\dist
 ```
