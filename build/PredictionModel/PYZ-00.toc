@@ -1,0 +1,4665 @@
+('D:\\App Titulo\\Prediccion de Modelos\\build\\PredictionModel\\PYZ-00.pyz',
+ [('pkgutil',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\typing.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\string.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\copy.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\struct.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\gettext.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\argparse.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stat.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\selectors.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\optparse.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\csv.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\token.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ast.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\signal.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\uuid.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ssl.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tty.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\codeop.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\__future__.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\cmd.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\imp.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\platform.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('controllers.main_window',
+   'D:\\App Titulo\\Prediccion de Modelos\\controllers\\main_window.py',
+   'PYMODULE'),
+  ('controllers', '-', 'PYMODULE'),
+  ('PySide2',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\PySide2\\__init__.py',
+   'PYMODULE'),
+  ('shiboken2',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\shiboken2\\__init__.py',
+   'PYMODULE'),
+  ('main', 'D:\\App Titulo\\Prediccion de Modelos\\main.py', 'PYMODULE'),
+  ('sklearn.metrics',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.utils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\base.py',
+   'PYMODULE'),
+  ('sklearn.utils._pprint',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\_pprint.py',
+   'PYMODULE'),
+  ('sklearn.utils._tags',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\_tags.py',
+   'PYMODULE'),
+  ('sklearn._config',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\_config.py',
+   'PYMODULE'),
+  ('sklearn.utils._testing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\_testing.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\difflib.py',
+   'PYMODULE'),
+  ('sklearn.utils.multiclass',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\multiclass.py',
+   'PYMODULE'),
+  ('joblib',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\__init__.py',
+   'PYMODULE'),
+  ('joblib.externals.loky',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\__init__.py',
+   'PYMODULE'),
+  ('joblib.externals',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\__init__.py',
+   'PYMODULE'),
+  ('joblib.externals.cloudpickle',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\cloudpickle\\__init__.py',
+   'PYMODULE'),
+  ('joblib.externals.cloudpickle.cloudpickle_fast',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\cloudpickle\\cloudpickle_fast.py',
+   'PYMODULE'),
+  ('joblib.externals.cloudpickle.compat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\cloudpickle\\compat.py',
+   'PYMODULE'),
+  ('joblib.externals.cloudpickle.cloudpickle',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\cloudpickle\\cloudpickle.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.process_executor',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\process_executor.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.initializers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\initializers.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.utils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\utils.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.queues',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\queues.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.compat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\compat.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.compat_posix',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\compat_posix.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend._posix_wait',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\_posix_wait.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.compat_win32',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\compat_win32.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend._win_wait',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\_win_wait.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\__init__.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.spawn',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\spawn.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.resource_tracker',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\resource_tracker.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.fork_exec',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\fork_exec.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.semlock',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\semlock.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend._win_reduction',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\_win_reduction.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.cloudpickle_wrapper',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\cloudpickle_wrapper.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.reusable_executor',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\reusable_executor.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.reduction',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\reduction.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend._posix_reduction',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\_posix_reduction.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.context',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\context.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.synchronize',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\synchronize.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.managers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\managers.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.process',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\process.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.popen_loky_posix',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\popen_loky_posix.py',
+   'PYMODULE'),
+  ('joblib.externals.loky.backend.popen_loky_win32',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\backend\\popen_loky_win32.py',
+   'PYMODULE'),
+  ('joblib.externals.loky._base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\externals\\loky\\_base.py',
+   'PYMODULE'),
+  ('joblib.parallel',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\parallel.py',
+   'PYMODULE'),
+  ('joblib._dask',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\_dask.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('joblib._parallel_backends',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\_parallel_backends.py',
+   'PYMODULE'),
+  ('joblib.executor',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\executor.py',
+   'PYMODULE'),
+  ('joblib._memmapping_reducer',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\_memmapping_reducer.py',
+   'PYMODULE'),
+  ('joblib.backports',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\backports.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._generic_alias',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_typing\\_generic_alias.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.compat._pep440',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\compat\\_pep440.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('joblib.pool',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\pool.py',
+   'PYMODULE'),
+  ('joblib.my_exceptions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\my_exceptions.py',
+   'PYMODULE'),
+  ('joblib.disk',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\disk.py',
+   'PYMODULE'),
+  ('joblib._multiprocessing_helpers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\_multiprocessing_helpers.py',
+   'PYMODULE'),
+  ('joblib._deprecated_my_exceptions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\_deprecated_my_exceptions.py',
+   'PYMODULE'),
+  ('joblib.compressor',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\compressor.py',
+   'PYMODULE'),
+  ('joblib.numpy_pickle',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\numpy_pickle.py',
+   'PYMODULE'),
+  ('joblib.numpy_pickle_compat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\numpy_pickle_compat.py',
+   'PYMODULE'),
+  ('joblib.numpy_pickle_utils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\numpy_pickle_utils.py',
+   'PYMODULE'),
+  ('joblib.logger',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\logger.py',
+   'PYMODULE'),
+  ('joblib.memory',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\memory.py',
+   'PYMODULE'),
+  ('joblib._store_backends',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\_store_backends.py',
+   'PYMODULE'),
+  ('joblib.func_inspect',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\func_inspect.py',
+   'PYMODULE'),
+  ('joblib.hashing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\joblib\\hashing.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\doctest.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('scipy',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\__init__.py',
+   'PYMODULE'),
+  ('scipy.integrate',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\__init__.py',
+   'PYMODULE'),
+  ('scipy.integrate.quadpack',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\quadpack.py',
+   'PYMODULE'),
+  ('scipy.integrate.odepack',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\odepack.py',
+   'PYMODULE'),
+  ('scipy.integrate.vode',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\vode.py',
+   'PYMODULE'),
+  ('scipy.integrate.lsoda',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\lsoda.py',
+   'PYMODULE'),
+  ('scipy.integrate.dop',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\dop.py',
+   'PYMODULE'),
+  ('scipy.integrate._quad_vec',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_quad_vec.py',
+   'PYMODULE'),
+  ('scipy._lib._util',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\_util.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_ivp\\__init__.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_ivp\\base.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_ivp\\common.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.lsoda',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_ivp\\lsoda.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.bdf',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_ivp\\bdf.py',
+   'PYMODULE'),
+  ('scipy.optimize._numdiff',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_numdiff.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.matfuncs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\matfuncs.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.interface',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\interface.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.dsolve',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\dsolve.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._expm_multiply',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_expm_multiply.py',
+   'PYMODULE'),
+  ('scipy.sparse._sputils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_sputils.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._norm',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_norm.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._onenormest',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_onenormest.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._matfuncs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_matfuncs.py',
+   'PYMODULE'),
+  ('scipy.sparse._base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_base.py',
+   'PYMODULE'),
+  ('scipy.sparse._arrays',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_arrays.py',
+   'PYMODULE'),
+  ('scipy.sparse._construct',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_construct.py',
+   'PYMODULE'),
+  ('scipy.sparse._lil',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_lil.py',
+   'PYMODULE'),
+  ('scipy.sparse._index',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_index.py',
+   'PYMODULE'),
+  ('scipy.sparse._dok',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_dok.py',
+   'PYMODULE'),
+  ('scipy.sparse._dia',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_dia.py',
+   'PYMODULE'),
+  ('scipy.sparse._data',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_data.py',
+   'PYMODULE'),
+  ('scipy.sparse._csr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_csr.py',
+   'PYMODULE'),
+  ('scipy.sparse._spfuncs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_spfuncs.py',
+   'PYMODULE'),
+  ('scipy.sparse._compressed',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_compressed.py',
+   'PYMODULE'),
+  ('scipy.sparse._csc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_csc.py',
+   'PYMODULE'),
+  ('scipy.sparse._coo',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_coo.py',
+   'PYMODULE'),
+  ('scipy.sparse._bsr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_bsr.py',
+   'PYMODULE'),
+  ('scipy.linalg._basic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_basic.py',
+   'PYMODULE'),
+  ('scipy.fft',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.helper',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\fft\\_pocketfft\\helper.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\fft\\_pocketfft\\__init__.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.realtransforms',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\fft\\_pocketfft\\realtransforms.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.basic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\fft\\_pocketfft\\basic.py',
+   'PYMODULE'),
+  ('scipy.fft._backend',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\fft\\_backend.py',
+   'PYMODULE'),
+  ('scipy._lib.uarray',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\uarray.py',
+   'PYMODULE'),
+  ('scipy._lib._uarray',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\_uarray\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib._uarray._backend',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\_uarray\\_backend.py',
+   'PYMODULE'),
+  ('scipy.fft._helper',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('scipy.fft._fftlog',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\fft\\_fftlog.py',
+   'PYMODULE'),
+  ('scipy.special',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\__init__.py',
+   'PYMODULE'),
+  ('scipy.special.spfun_stats',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\spfun_stats.py',
+   'PYMODULE'),
+  ('scipy.special.sf_error',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\sf_error.py',
+   'PYMODULE'),
+  ('scipy.special.specfun',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\specfun.py',
+   'PYMODULE'),
+  ('scipy.special.orthogonal',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\orthogonal.py',
+   'PYMODULE'),
+  ('scipy.special.basic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\basic.py',
+   'PYMODULE'),
+  ('scipy.special.add_newdocs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\add_newdocs.py',
+   'PYMODULE'),
+  ('scipy.special._add_newdocs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\_add_newdocs.py',
+   'PYMODULE'),
+  ('scipy.special._spherical_bessel',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\_spherical_bessel.py',
+   'PYMODULE'),
+  ('scipy.special._lambertw',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\_lambertw.py',
+   'PYMODULE'),
+  ('scipy.special._ellip_harm',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\_ellip_harm.py',
+   'PYMODULE'),
+  ('scipy.special._spfun_stats',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\_spfun_stats.py',
+   'PYMODULE'),
+  ('scipy.special._logsumexp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\_logsumexp.py',
+   'PYMODULE'),
+  ('scipy.special._basic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\_basic.py',
+   'PYMODULE'),
+  ('scipy.special._orthogonal',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\_orthogonal.py',
+   'PYMODULE'),
+  ('scipy.special._sf_error',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\special\\_sf_error.py',
+   'PYMODULE'),
+  ('scipy.fft._realtransforms',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\fft\\_realtransforms.py',
+   'PYMODULE'),
+  ('scipy.fft._basic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\fft\\_basic.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_svd',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_decomp_svd.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_decomp.py',
+   'PYMODULE'),
+  ('scipy.linalg._misc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_misc.py',
+   'PYMODULE'),
+  ('scipy.linalg.blas',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\blas.py',
+   'PYMODULE'),
+  ('scipy.linalg.lapack',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\lapack.py',
+   'PYMODULE'),
+  ('scipy.linalg._flinalg_py',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_flinalg_py.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._eigen',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._eigen._svds',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\_svds.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._svdp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_svdp.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._propack', '-', 'PYMODULE'),
+  ('scipy.sparse.linalg._eigen.lobpcg.lobpcg',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\lobpcg\\lobpcg.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._eigen.lobpcg',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\lobpcg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._eigen.arpack',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._eigen.arpack.arpack',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\arpack.py',
+   'PYMODULE'),
+  ('scipy._lib._threadsafety',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\_threadsafety.py',
+   'PYMODULE'),
+  ('scipy._lib.decorator',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\decorator.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._interface',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_interface.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._dsolve',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._dsolve._add_newdocs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\_add_newdocs.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._dsolve.linsolve',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\linsolve.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.tfqmr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tfqmr.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.utils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\utils.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve._gcrotmk',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\_gcrotmk.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.lsmr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\lsmr.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.lsqr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\lsqr.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.lgmres',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\lgmres.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.minres',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\minres.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.iterative',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\iterative.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.radau',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_ivp\\radau.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.rk',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_ivp\\rk.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.ivp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_ivp\\ivp.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.dop853_coefficients',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_ivp\\dop853_coefficients.py',
+   'PYMODULE'),
+  ('scipy.integrate._bvp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_bvp.py',
+   'PYMODULE'),
+  ('scipy.integrate._ode',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_ode.py',
+   'PYMODULE'),
+  ('scipy.integrate._quadpack_py',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_quadpack_py.py',
+   'PYMODULE'),
+  ('scipy.integrate._odepack_py',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_odepack_py.py',
+   'PYMODULE'),
+  ('scipy.integrate._quadrature',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\integrate\\_quadrature.py',
+   'PYMODULE'),
+  ('scipy.optimize',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize.zeros',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\zeros.py',
+   'PYMODULE'),
+  ('scipy.optimize.tnc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\tnc.py',
+   'PYMODULE'),
+  ('scipy.optimize.slsqp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\slsqp.py',
+   'PYMODULE'),
+  ('scipy.optimize.optimize',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\optimize.py',
+   'PYMODULE'),
+  ('scipy.optimize.nonlin',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\nonlin.py',
+   'PYMODULE'),
+  ('scipy.optimize.moduleTNC',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\moduleTNC.py',
+   'PYMODULE'),
+  ('scipy.optimize.minpack2',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\minpack2.py',
+   'PYMODULE'),
+  ('scipy.optimize.minpack',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\minpack.py',
+   'PYMODULE'),
+  ('scipy.optimize.linesearch',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\linesearch.py',
+   'PYMODULE'),
+  ('scipy.optimize._linesearch',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_linesearch.py',
+   'PYMODULE'),
+  ('scipy.optimize.lbfgsb',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\lbfgsb.py',
+   'PYMODULE'),
+  ('scipy.optimize.cobyla',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\cobyla.py',
+   'PYMODULE'),
+  ('scipy.optimize._qap',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_qap.py',
+   'PYMODULE'),
+  ('scipy.optimize._dual_annealing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_dual_annealing.py',
+   'PYMODULE'),
+  ('scipy.optimize._shgo',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_shgo.py',
+   'PYMODULE'),
+  ('scipy.stats.qmc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\qmc.py',
+   'PYMODULE'),
+  ('scipy.stats._qmc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_qmc.py',
+   'PYMODULE'),
+  ('scipy.optimize._shgo_lib.triangulation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_shgo_lib\\triangulation.py',
+   'PYMODULE'),
+  ('scipy.optimize._shgo_lib',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_shgo_lib\\__init__.py',
+   'PYMODULE'),
+  ('scipy.spatial',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\__init__.py',
+   'PYMODULE'),
+  ('scipy.spatial.transform',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\transform\\__init__.py',
+   'PYMODULE'),
+  ('scipy.spatial.transform.rotation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\transform\\rotation.py',
+   'PYMODULE'),
+  ('scipy.spatial.transform._rotation_groups',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\transform\\_rotation_groups.py',
+   'PYMODULE'),
+  ('scipy.constants',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\constants\\__init__.py',
+   'PYMODULE'),
+  ('scipy.constants.constants',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\constants\\constants.py',
+   'PYMODULE'),
+  ('scipy.constants.codata',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\constants\\codata.py',
+   'PYMODULE'),
+  ('scipy.constants._constants',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\constants\\_constants.py',
+   'PYMODULE'),
+  ('scipy.constants._codata',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\constants\\_codata.py',
+   'PYMODULE'),
+  ('scipy.spatial.transform._rotation_spline',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\transform\\_rotation_spline.py',
+   'PYMODULE'),
+  ('scipy.spatial.distance',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\distance.py',
+   'PYMODULE'),
+  ('scipy.spatial.qhull',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\qhull.py',
+   'PYMODULE'),
+  ('scipy.spatial.kdtree',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\kdtree.py',
+   'PYMODULE'),
+  ('scipy.spatial.ckdtree',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\ckdtree.py',
+   'PYMODULE'),
+  ('scipy.spatial._geometric_slerp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\_geometric_slerp.py',
+   'PYMODULE'),
+  ('scipy.spatial._procrustes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\_procrustes.py',
+   'PYMODULE'),
+  ('scipy.spatial._plotutils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\_plotutils.py',
+   'PYMODULE'),
+  ('scipy.spatial._spherical_voronoi',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\_spherical_voronoi.py',
+   'PYMODULE'),
+  ('scipy.spatial._kdtree',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\spatial\\_kdtree.py',
+   'PYMODULE'),
+  ('scipy.optimize._hessian_update_strategy',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_hessian_update_strategy.py',
+   'PYMODULE'),
+  ('scipy.optimize._constraints',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_constraints.py',
+   'PYMODULE'),
+  ('scipy.optimize._differentiable_functions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_differentiable_functions.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.lsq_linear',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_lsq\\lsq_linear.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.bvls',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_lsq\\bvls.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.trf_linear',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_lsq\\trf_linear.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_lsq\\common.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.least_squares',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_lsq\\least_squares.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.dogbox',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_lsq\\dogbox.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.trf',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_lsq\\trf.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_lsq\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._differentialevolution',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_differentialevolution.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsap',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_lsap.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_linprog.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_util',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_linprog_util.py',
+   'PYMODULE'),
+  ('scipy.optimize._remove_redundancy',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_remove_redundancy.py',
+   'PYMODULE'),
+  ('scipy.linalg.interpolative',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\interpolative.py',
+   'PYMODULE'),
+  ('scipy.linalg._interpolative_backend',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_interpolative_backend.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_doc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_linprog_doc.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_rs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_linprog_rs.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_simplex',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_linprog_simplex.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_ip',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_linprog_ip.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_highs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_linprog_highs.py',
+   'PYMODULE'),
+  ('scipy.optimize._highs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_highs\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._basinhopping',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_basinhopping.py',
+   'PYMODULE'),
+  ('scipy.optimize._nnls',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_nnls.py',
+   'PYMODULE'),
+  ('scipy.optimize._slsqp_py',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_slsqp_py.py',
+   'PYMODULE'),
+  ('scipy.optimize._cobyla_py',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_cobyla_py.py',
+   'PYMODULE'),
+  ('scipy.optimize._tnc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_tnc.py',
+   'PYMODULE'),
+  ('scipy.optimize._lbfgsb_py',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_lbfgsb_py.py',
+   'PYMODULE'),
+  ('scipy.optimize._minpack_py',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_minpack_py.py',
+   'PYMODULE'),
+  ('scipy.optimize._root_scalar',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_root_scalar.py',
+   'PYMODULE'),
+  ('scipy.optimize._zeros_py',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_zeros_py.py',
+   'PYMODULE'),
+  ('scipy.optimize._root',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_root.py',
+   'PYMODULE'),
+  ('scipy.optimize._spectral',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_spectral.py',
+   'PYMODULE'),
+  ('scipy.optimize._nonlin',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_nonlin.py',
+   'PYMODULE'),
+  ('scipy.optimize._minimize',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_minimize.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.minimize_trustregion_constr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\minimize_trustregion_constr.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.report',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\report.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.tr_interior_point',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\tr_interior_point.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.canonical_constraint',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\canonical_constraint.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.equality_constrained_sqp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\equality_constrained_sqp.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.qp_subproblem',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\qp_subproblem.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.projections',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\projections.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_exact',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_exact.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_krylov',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_krylov.py',
+   'PYMODULE'),
+  ('scipy.optimize._trlib',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trlib\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_ncg',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_ncg.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_dogleg',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_trustregion_dogleg.py',
+   'PYMODULE'),
+  ('scipy.optimize._optimize',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\optimize\\_optimize.py',
+   'PYMODULE'),
+  ('scipy.interpolate',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\__init__.py',
+   'PYMODULE'),
+  ('scipy.interpolate.rbf',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\rbf.py',
+   'PYMODULE'),
+  ('scipy.interpolate.polyint',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\polyint.py',
+   'PYMODULE'),
+  ('scipy.interpolate.ndgriddata',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\ndgriddata.py',
+   'PYMODULE'),
+  ('scipy.interpolate.interpolate',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\interpolate.py',
+   'PYMODULE'),
+  ('scipy.interpolate.fitpack2',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\fitpack2.py',
+   'PYMODULE'),
+  ('scipy.interpolate.fitpack',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\fitpack.py',
+   'PYMODULE'),
+  ('scipy.interpolate._pade',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\_pade.py',
+   'PYMODULE'),
+  ('scipy.interpolate._bsplines',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\_bsplines.py',
+   'PYMODULE'),
+  ('scipy.interpolate._fitpack_impl',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\_fitpack_impl.py',
+   'PYMODULE'),
+  ('scipy.interpolate._ndgriddata',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\_ndgriddata.py',
+   'PYMODULE'),
+  ('scipy.interpolate._cubic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\_cubic.py',
+   'PYMODULE'),
+  ('scipy.interpolate._polyint',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\_polyint.py',
+   'PYMODULE'),
+  ('scipy.interpolate._rbfinterp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\_rbfinterp.py',
+   'PYMODULE'),
+  ('scipy.interpolate._rbf',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\_rbf.py',
+   'PYMODULE'),
+  ('scipy.interpolate._fitpack2',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\_fitpack2.py',
+   'PYMODULE'),
+  ('scipy.interpolate._interpolate',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\_interpolate.py',
+   'PYMODULE'),
+  ('scipy.interpolate._fitpack_py',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\interpolate\\_fitpack_py.py',
+   'PYMODULE'),
+  ('scipy.linalg',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.linalg.matfuncs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\matfuncs.py',
+   'PYMODULE'),
+  ('scipy.linalg.flinalg',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\flinalg.py',
+   'PYMODULE'),
+  ('scipy.linalg.special_matrices',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\special_matrices.py',
+   'PYMODULE'),
+  ('scipy.linalg.misc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\misc.py',
+   'PYMODULE'),
+  ('scipy.linalg.basic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\basic.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_schur',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\decomp_schur.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_svd',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\decomp_svd.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_qr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\decomp_qr.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_lu',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\decomp_lu.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_cholesky',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\decomp_cholesky.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\decomp.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_cossin',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_decomp_cossin.py',
+   'PYMODULE'),
+  ('scipy.linalg._sketches',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_sketches.py',
+   'PYMODULE'),
+  ('scipy.linalg._procrustes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_procrustes.py',
+   'PYMODULE'),
+  ('scipy.linalg._solvers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_solvers.py',
+   'PYMODULE'),
+  ('scipy.linalg._special_matrices',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_special_matrices.py',
+   'PYMODULE'),
+  ('scipy.linalg._matfuncs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_matfuncs.py',
+   'PYMODULE'),
+  ('scipy.linalg._matfuncs_inv_ssq',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_matfuncs_inv_ssq.py',
+   'PYMODULE'),
+  ('scipy.linalg._matfuncs_sqrtm',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_matfuncs_sqrtm.py',
+   'PYMODULE'),
+  ('scipy.linalg._expm_frechet',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_expm_frechet.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_polar',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_decomp_polar.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_schur',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_decomp_schur.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_qz',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_decomp_qz.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_qr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_decomp_qr.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_cholesky',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_decomp_cholesky.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_ldl',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_decomp_ldl.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_lu',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\linalg\\_decomp_lu.py',
+   'PYMODULE'),
+  ('scipy._lib._testutils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\_testutils.py',
+   'PYMODULE'),
+  ('scipy._lib._ccallback',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\_ccallback.py',
+   'PYMODULE'),
+  ('scipy._lib._pep440',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\_pep440.py',
+   'PYMODULE'),
+  ('scipy._lib',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib.doccer',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\doccer.py',
+   'PYMODULE'),
+  ('scipy._distributor_init',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_distributor_init.py',
+   'PYMODULE'),
+  ('scipy.version',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\version.py',
+   'PYMODULE'),
+  ('scipy.__config__',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\__config__.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('scipy._lib.deprecation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\deprecation.py',
+   'PYMODULE'),
+  ('sklearn.utils._bunch',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\_bunch.py',
+   'PYMODULE'),
+  ('sklearn.utils.validation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\validation.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexers\\objects.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util.testing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\util\\testing.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.compat.chainmap',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\compat\\chainmap.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.numeric',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_utils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing._random',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_testing\\_random.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.date_converters',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\date_converters.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\parsers\\arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('six',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlwt',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\excel\\_xlwt.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\var_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\mean_.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\sample.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\groupby\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\_numba\\executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\_numba\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.core.describe',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.dtype',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\dtype.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.methods',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\ops\\methods.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.latex',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\formats\\latex.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\indexers\\utils.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pytz',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('sklearn.utils.extmath',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\extmath.py',
+   'PYMODULE'),
+  ('sklearn.utils._estimator_html_repr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\_estimator_html_repr.py',
+   'PYMODULE'),
+  ('sklearn.utils.fixes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\fixes.py',
+   'PYMODULE'),
+  ('sklearn.externals._lobpcg',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\externals\\_lobpcg.py',
+   'PYMODULE'),
+  ('sklearn.externals',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\externals\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.externals._packaging.version',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\externals\\_packaging\\version.py',
+   'PYMODULE'),
+  ('sklearn.externals._packaging',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\externals\\_packaging\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.externals._packaging._structures',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\externals\\_packaging\\_structures.py',
+   'PYMODULE'),
+  ('threadpoolctl',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\threadpoolctl.py',
+   'PYMODULE'),
+  ('sklearn.utils.deprecation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\deprecation.py',
+   'PYMODULE'),
+  ('sklearn.exceptions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\exceptions.py',
+   'PYMODULE'),
+  ('sklearn.utils._joblib',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\_joblib.py',
+   'PYMODULE'),
+  ('sklearn.utils.class_weight',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\class_weight.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\preprocessing\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._polynomial',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\preprocessing\\_polynomial.py',
+   'PYMODULE'),
+  ('sklearn.utils.stats',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\stats.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._discretization',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\preprocessing\\_discretization.py',
+   'PYMODULE'),
+  ('sklearn.cluster',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.cluster._birch',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\_birch.py',
+   'PYMODULE'),
+  ('sklearn.cluster._bicluster',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\_bicluster.py',
+   'PYMODULE'),
+  ('sklearn.cluster._optics',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\_optics.py',
+   'PYMODULE'),
+  ('sklearn.neighbors',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\neighbors\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.tree',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\tree\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.tree._export',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\tree\\_export.py',
+   'PYMODULE'),
+  ('sklearn.tree._reingold_tilford',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\tree\\_reingold_tilford.py',
+   'PYMODULE'),
+  ('sklearn.tree._classes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\tree\\_classes.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\neighbors\\_base.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._nca',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\neighbors\\_nca.py',
+   'PYMODULE'),
+  ('sklearn.discriminant_analysis',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\discriminant_analysis.py',
+   'PYMODULE'),
+  ('sklearn.covariance',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\covariance\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.covariance._elliptic_envelope',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\covariance\\_elliptic_envelope.py',
+   'PYMODULE'),
+  ('sklearn.covariance._graph_lasso',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\covariance\\_graph_lasso.py',
+   'PYMODULE'),
+  ('sklearn.model_selection',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\model_selection\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.model_selection._search_successive_halving',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\model_selection\\_search_successive_halving.py',
+   'PYMODULE'),
+  ('sklearn.model_selection._search',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\model_selection\\_search.py',
+   'PYMODULE'),
+  ('sklearn.utils.metaestimators',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\metaestimators.py',
+   'PYMODULE'),
+  ('sklearn.model_selection._validation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\model_selection\\_validation.py',
+   'PYMODULE'),
+  ('sklearn.model_selection._split',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\model_selection\\_split.py',
+   'PYMODULE'),
+  ('sklearn.covariance._robust_covariance',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\covariance\\_robust_covariance.py',
+   'PYMODULE'),
+  ('sklearn.covariance._shrunk_covariance',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\covariance\\_shrunk_covariance.py',
+   'PYMODULE'),
+  ('sklearn.covariance._empirical_covariance',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\covariance\\_empirical_covariance.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_base.py',
+   'PYMODULE'),
+  ('sklearn.utils.sparsefuncs',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\sparsefuncs.py',
+   'PYMODULE'),
+  ('sklearn.utils.random',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\random.py',
+   'PYMODULE'),
+  ('sklearn.decomposition',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._lda',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\_lda.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._factor_analysis',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\_factor_analysis.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._dict_learning',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\_dict_learning.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._fastica',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\_fastica.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._truncated_svd',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\_truncated_svd.py',
+   'PYMODULE'),
+  ('sklearn.utils._arpack',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\_arpack.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._sparse_pca',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\_sparse_pca.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._kernel_pca',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\_kernel_pca.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._incremental_pca',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\_incremental_pca.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\_base.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._pca',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\_pca.py',
+   'PYMODULE'),
+  ('sklearn.decomposition._nmf',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\decomposition\\_nmf.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._lof',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\neighbors\\_lof.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._kde',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\neighbors\\_kde.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._nearest_centroid',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\neighbors\\_nearest_centroid.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._regression',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\neighbors\\_regression.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._classification',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\neighbors\\_classification.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._unsupervised',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\neighbors\\_unsupervised.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._graph',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\neighbors\\_graph.py',
+   'PYMODULE'),
+  ('sklearn.neighbors._distance_metric',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\neighbors\\_distance_metric.py',
+   'PYMODULE'),
+  ('sklearn.cluster._dbscan',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\_dbscan.py',
+   'PYMODULE'),
+  ('sklearn.cluster._bisect_k_means',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\_bisect_k_means.py',
+   'PYMODULE'),
+  ('sklearn.cluster._kmeans',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\_kmeans.py',
+   'PYMODULE'),
+  ('sklearn.cluster._agglomerative',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\_agglomerative.py',
+   'PYMODULE'),
+  ('scipy.cluster.hierarchy',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\cluster\\hierarchy.py',
+   'PYMODULE'),
+  ('scipy._lib._disjoint_set',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\_disjoint_set.py',
+   'PYMODULE'),
+  ('scipy.cluster',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\cluster\\__init__.py',
+   'PYMODULE'),
+  ('scipy.cluster.vq',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\cluster\\vq.py',
+   'PYMODULE'),
+  ('sklearn.cluster._feature_agglomeration',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\_feature_agglomeration.py',
+   'PYMODULE'),
+  ('sklearn.utils.graph',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\graph.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\csgraph\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph._validation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\csgraph\\_validation.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph._laplacian',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\csgraph\\_laplacian.py',
+   'PYMODULE'),
+  ('sklearn.cluster._affinity_propagation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\_affinity_propagation.py',
+   'PYMODULE'),
+  ('sklearn.cluster._mean_shift',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\_mean_shift.py',
+   'PYMODULE'),
+  ('sklearn.cluster._spectral',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\cluster\\_spectral.py',
+   'PYMODULE'),
+  ('sklearn.manifold',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\manifold\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.manifold._t_sne',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\manifold\\_t_sne.py',
+   'PYMODULE'),
+  ('sklearn.manifold._spectral_embedding',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\manifold\\_spectral_embedding.py',
+   'PYMODULE'),
+  ('sklearn.manifold._mds',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\manifold\\_mds.py',
+   'PYMODULE'),
+  ('sklearn.isotonic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\isotonic.py',
+   'PYMODULE'),
+  ('sklearn.manifold._isomap',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\manifold\\_isomap.py',
+   'PYMODULE'),
+  ('sklearn.manifold._locally_linear',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\manifold\\_locally_linear.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._label',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\preprocessing\\_label.py',
+   'PYMODULE'),
+  ('sklearn.utils._encode',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\_encode.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._encoders',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\preprocessing\\_encoders.py',
+   'PYMODULE'),
+  ('sklearn.utils._mask',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\_mask.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._data',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\preprocessing\\_data.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._function_transformer',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\preprocessing\\_function_transformer.py',
+   'PYMODULE'),
+  ('scipy.sparse',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.sputils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\sputils.py',
+   'PYMODULE'),
+  ('scipy.sparse.sparsetools',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\sparsetools.py',
+   'PYMODULE'),
+  ('scipy.sparse.lil',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\lil.py',
+   'PYMODULE'),
+  ('scipy.sparse.extract',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\extract.py',
+   'PYMODULE'),
+  ('scipy.sparse.dok',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\dok.py',
+   'PYMODULE'),
+  ('scipy.sparse.dia',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\dia.py',
+   'PYMODULE'),
+  ('scipy.sparse.data',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\data.py',
+   'PYMODULE'),
+  ('scipy.sparse.csr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\csr.py',
+   'PYMODULE'),
+  ('scipy.sparse.csc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\csc.py',
+   'PYMODULE'),
+  ('scipy.sparse.coo',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\coo.py',
+   'PYMODULE'),
+  ('scipy.sparse.construct',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\construct.py',
+   'PYMODULE'),
+  ('scipy.sparse.compressed',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\compressed.py',
+   'PYMODULE'),
+  ('scipy.sparse.bsr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\bsr.py',
+   'PYMODULE'),
+  ('scipy.sparse.base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\base.py',
+   'PYMODULE'),
+  ('scipy.sparse._matrix_io',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_matrix_io.py',
+   'PYMODULE'),
+  ('scipy.sparse._extract',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\sparse\\_extract.py',
+   'PYMODULE'),
+  ('timeit',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\timeit.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot.confusion_matrix',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\_plot\\confusion_matrix.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\_plot\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot.precision_recall_curve',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\_plot\\precision_recall_curve.py',
+   'PYMODULE'),
+  ('sklearn.metrics._base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\_base.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot.base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\_plot\\base.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot.roc_curve',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\_plot\\roc_curve.py',
+   'PYMODULE'),
+  ('sklearn.metrics._plot.det_curve',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\_plot\\det_curve.py',
+   'PYMODULE'),
+  ('sklearn.metrics._scorer',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\_scorer.py',
+   'PYMODULE'),
+  ('sklearn.metrics._regression',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\_regression.py',
+   'PYMODULE'),
+  ('sklearn.metrics.pairwise',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\pairwise.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process.kernels',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\gaussian_process\\kernels.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\gaussian_process\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process._gpc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\gaussian_process\\_gpc.py',
+   'PYMODULE'),
+  ('sklearn.multiclass',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\multiclass.py',
+   'PYMODULE'),
+  ('sklearn.utils.optimize',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\optimize.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process._gpr',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\gaussian_process\\_gpr.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\cluster\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster._bicluster',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\cluster\\_bicluster.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster._unsupervised',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\cluster\\_unsupervised.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster._supervised',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\cluster\\_supervised.py',
+   'PYMODULE'),
+  ('sklearn',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.utils._show_versions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\utils\\_show_versions.py',
+   'PYMODULE'),
+  ('sklearn.__check_build',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\__check_build\\__init__.py',
+   'PYMODULE'),
+  ('sklearn._distributor_init',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\_distributor_init.py',
+   'PYMODULE'),
+  ('sklearn.metrics._classification',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\_classification.py',
+   'PYMODULE'),
+  ('sklearn.metrics._ranking',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\metrics\\_ranking.py',
+   'PYMODULE'),
+  ('sklearn.linear_model',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._theil_sen',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_theil_sen.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._ransac',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_ransac.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._quantile',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_quantile.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._perceptron',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_perceptron.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._passive_aggressive',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_passive_aggressive.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._omp',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_omp.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._logistic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_logistic.py',
+   'PYMODULE'),
+  ('sklearn.svm._base',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\svm\\_base.py',
+   'PYMODULE'),
+  ('sklearn.svm',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\svm\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.svm._bounds',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\svm\\_bounds.py',
+   'PYMODULE'),
+  ('sklearn.svm._classes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\svm\\_classes.py',
+   'PYMODULE'),
+  ('sklearn._loss.loss',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\_loss\\loss.py',
+   'PYMODULE'),
+  ('sklearn._loss',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\_loss\\__init__.py',
+   'PYMODULE'),
+  ('sklearn._loss.link',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\_loss\\link.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._sag',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_sag.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._linear_loss',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_linear_loss.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._ridge',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_ridge.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._stochastic_gradient',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_stochastic_gradient.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._huber',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_huber.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._glm',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_glm\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._glm.glm',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_glm\\glm.py',
+   'PYMODULE'),
+  ('sklearn._loss.glm_distribution',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\_loss\\glm_distribution.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._coordinate_descent',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_coordinate_descent.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._least_angle',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_least_angle.py',
+   'PYMODULE'),
+  ('sklearn.linear_model._bayes',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\sklearn\\linear_model\\_bayes.py',
+   'PYMODULE'),
+  ('scipy.stats',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\__init__.py',
+   'PYMODULE'),
+  ('scipy.stats.stats',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\stats.py',
+   'PYMODULE'),
+  ('scipy.stats.statlib',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\statlib.py',
+   'PYMODULE'),
+  ('scipy.stats.mvn',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\mvn.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats_extras',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\mstats_extras.py',
+   'PYMODULE'),
+  ('scipy.stats._mstats_extras',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_mstats_extras.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats_basic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\mstats_basic.py',
+   'PYMODULE'),
+  ('scipy.stats.morestats',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\morestats.py',
+   'PYMODULE'),
+  ('scipy.stats.kde',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\kde.py',
+   'PYMODULE'),
+  ('scipy.stats.biasedurn',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\biasedurn.py',
+   'PYMODULE'),
+  ('scipy.stats._mannwhitneyu',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_mannwhitneyu.py',
+   'PYMODULE'),
+  ('scipy.stats._axis_nan_policy',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_axis_nan_policy.py',
+   'PYMODULE'),
+  ('scipy._lib._docscrape',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\_docscrape.py',
+   'PYMODULE'),
+  ('scipy.stats._page_trend_test',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_page_trend_test.py',
+   'PYMODULE'),
+  ('scipy.stats._rvs_sampling',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_rvs_sampling.py',
+   'PYMODULE'),
+  ('scipy.stats._unuran',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_unuran\\__init__.py',
+   'PYMODULE'),
+  ('scipy.stats._hypotests',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_hypotests.py',
+   'PYMODULE'),
+  ('scipy.stats._common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_common.py',
+   'PYMODULE'),
+  ('scipy.stats._entropy',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_entropy.py',
+   'PYMODULE'),
+  ('scipy.stats._bootstrap',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_bootstrap.py',
+   'PYMODULE'),
+  ('scipy.stats.contingency',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\contingency.py',
+   'PYMODULE'),
+  ('scipy.stats._crosstab',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_crosstab.py',
+   'PYMODULE'),
+  ('scipy.stats._relative_risk',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_relative_risk.py',
+   'PYMODULE'),
+  ('scipy.stats._multivariate',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_multivariate.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\mstats.py',
+   'PYMODULE'),
+  ('scipy.stats._kde',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_kde.py',
+   'PYMODULE'),
+  ('scipy.stats._binned_statistic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_binned_statistic.py',
+   'PYMODULE'),
+  ('scipy.stats._binomtest',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_binomtest.py',
+   'PYMODULE'),
+  ('scipy.stats._morestats',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_morestats.py',
+   'PYMODULE'),
+  ('scipy.stats._distn_infrastructure',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_distn_infrastructure.py',
+   'PYMODULE'),
+  ('scipy.stats._constants',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_constants.py',
+   'PYMODULE'),
+  ('scipy.misc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\misc\\__init__.py',
+   'PYMODULE'),
+  ('scipy.misc.doccer',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\misc\\doccer.py',
+   'PYMODULE'),
+  ('scipy.misc._doccer',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\misc\\_doccer.py',
+   'PYMODULE'),
+  ('scipy.misc.common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\misc\\common.py',
+   'PYMODULE'),
+  ('scipy.misc._common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\misc\\_common.py',
+   'PYMODULE'),
+  ('scipy.stats._distr_params',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_distr_params.py',
+   'PYMODULE'),
+  ('scipy.stats._variation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_variation.py',
+   'PYMODULE'),
+  ('scipy.stats._stats_py',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_stats_py.py',
+   'PYMODULE'),
+  ('scipy.stats._stats_mstats_common',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_stats_mstats_common.py',
+   'PYMODULE'),
+  ('scipy._lib._bunch',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\_lib\\_bunch.py',
+   'PYMODULE'),
+  ('scipy.ndimage._measurements',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\_measurements.py',
+   'PYMODULE'),
+  ('scipy.ndimage._morphology',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\_morphology.py',
+   'PYMODULE'),
+  ('scipy.ndimage._filters',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\_filters.py',
+   'PYMODULE'),
+  ('scipy.ndimage._ni_docstrings',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\_ni_docstrings.py',
+   'PYMODULE'),
+  ('scipy.ndimage._ni_support',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\_ni_support.py',
+   'PYMODULE'),
+  ('scipy.ndimage',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\__init__.py',
+   'PYMODULE'),
+  ('scipy.ndimage.morphology',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\morphology.py',
+   'PYMODULE'),
+  ('scipy.ndimage.measurements',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\measurements.py',
+   'PYMODULE'),
+  ('scipy.ndimage.interpolation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\interpolation.py',
+   'PYMODULE'),
+  ('scipy.ndimage.fourier',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\fourier.py',
+   'PYMODULE'),
+  ('scipy.ndimage.filters',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\filters.py',
+   'PYMODULE'),
+  ('scipy.ndimage._interpolation',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\_interpolation.py',
+   'PYMODULE'),
+  ('scipy.ndimage._fourier',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\ndimage\\_fourier.py',
+   'PYMODULE'),
+  ('scipy.stats._wilcoxon_data',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_wilcoxon_data.py',
+   'PYMODULE'),
+  ('scipy.stats._mstats_basic',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_mstats_basic.py',
+   'PYMODULE'),
+  ('scipy.stats.distributions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\distributions.py',
+   'PYMODULE'),
+  ('scipy.stats._discrete_distns',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_discrete_distns.py',
+   'PYMODULE'),
+  ('scipy.stats._boost',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_boost\\__init__.py',
+   'PYMODULE'),
+  ('scipy.stats._continuous_distns',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_continuous_distns.py',
+   'PYMODULE'),
+  ('scipy.stats._ksstats',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_ksstats.py',
+   'PYMODULE'),
+  ('scipy.stats._tukeylambda_stats',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\scipy\\stats\\_tukeylambda_stats.py',
+   'PYMODULE'),
+  ('numpy',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('pandas',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'D:\\App Titulo\\Prediccion de '
+   'Modelos\\prediccion\\lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('views.main_window',
+   'D:\\App Titulo\\Prediccion de Modelos\\views\\main_window.py',
+   'PYMODULE'),
+  ('views', '-', 'PYMODULE'),
+  ('tabnanny',
+   'C:\\Users\\淑仪\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tabnanny.py',
+   'PYMODULE')])
